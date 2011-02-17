@@ -1,0 +1,9 @@
+[user]
+	name = txtflow
+	email = txt_flow@mail.ru
+
+[color]
+	status = auto
+	branch = auto
+	ui = auto
+
