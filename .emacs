@@ -32,3 +32,12 @@
 
 ;;save session
 (desktop-save-mode t)
+
+;;auto-complite
+;;(add-to-list 'load-path "d:/Program Files/emacs-23.2/site-lisp/")
+;;(require 'auto-complete-config)
+;;(add-to-list 'ac-dictionary-directories "d:/Program Files/emacs-23.2/site-lisp//ac-dict")
+;;(ac-config-default)
+
+;;haskell-autocomplete.el
+;;(load "D:/Program Files/emacs-23.2/site-lisp/haskell-mode/haskell-autocomplete")
